@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Environment
+  m_EditorClassIdentifier: 
+  m_GroupName: Environment
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 83c9ade819f6d5c44bffc5f483880ce8
+  m_SerializeEntries:
+  - m_GUID: 6120f054ddf79d94b9900e23cf990d24
+    m_Address: Assets/_Game/Prefabs/Interactive/Chest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4793bf65fcd15b046ab9ec523afe6493
+    m_Address: Assets/_Game/Materials/Environment/M_Ground.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7466938bb058c6438b7638fb4cdf6c3
+    m_Address: Assets/_Game/Materials/Environment/M_Sky.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35ec029edfc8a6e44a504e68f5bdad1f
+    m_Address: Assets/_Game/Materials/Generic/M_Gold.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e366da242f3d79c47982efb8c544f42d
+    m_Address: Assets/_Game/Materials/Generic/M_Metal.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa4b8c276af600c47b2587f3e3592d1d
+    m_Address: Assets/_Game/Materials/InterestObjects/M_Chest02.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c37a09cca391c14c84d615aeef49dcc
+    m_Address: Assets/_Game/Materials/InterestObjects/M_Chest01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f44b3ce56b56a444d9af4bb7b3995c84
+    m_Address: Assets/_Game/Materials/Environment/M_Snow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eeb6fa194a7691046b4d8fb64ac17561
+    m_Address: Assets/_Game/Prefabs/Environment/House.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a164baf9c37ba764f87a234a764603a0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6b912cd266ce97d4398f320e8fde45fa, type: 2}
+    - {fileID: 11400000, guid: 7752df1678c8cbe4db2d25a4b5bb6262, type: 2}
